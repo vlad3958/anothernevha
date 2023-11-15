@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eK/uOPYyb1dq/lba1EKVe2CFW6hZAS/6pVp9DOeD30dyanyCEMPLG2oU7HSjpwYFJ1tOTKLOICWwXO7qpFjiZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Влад\\RiderProjects\\AnotherNevha\\AnotherNevha\\AnotherNevha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Влад\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Влад\\.nuget\\packages\\telegram.bot\\20.0.0-alpha.1\\telegram.bot.20.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}

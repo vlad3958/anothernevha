@@ -1,0 +1,7 @@
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\AnotherNevha.exe
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\AnotherNevha.dll
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\AnotherNevha.deps.json
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\AnotherNevha.runtimeconfig.json
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\AnotherNevha.pdb
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Влад\RiderProjects\AnotherNevha\AnotherNevha\bin\Release\net6.0\publish\Telegram.Bot.dll
